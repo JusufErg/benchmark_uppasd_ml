@@ -8,6 +8,38 @@ The repository contains a benchmark study comparing machine learning optimizers 
 
 ## Installation 
 
+### Recommended directory:
+
+/benchmark_project
+├── /data
+│        └── /map to hold your [data files]
+├── /opt_pytorch
+│        └──── __init__.py
+│        └──── main.py
+│        └──── hamiltonian.py
+│        └──── optimize.py
+│        └──── plot_energy.py
+│        └──── utils.py
+│        
+├── /opt_jax
+│        └──── __init__.py
+│        └──── main.py
+│        └──── config_jax.py
+│        └──── energy.py
+│        └──── optimize.py
+│        └──── utils.py
+│       
+├── /config.py # necessary for running code for Pytorch 
+│       
+├── /parser
+│        └──── uppasd_parser.py
+│       
+├── /uppasd_runs
+│        └──── /map to hold copies files of UppAsd input and output files 
+│       
+├── /plots
+│        └──── /map used to store generated plots
+
 ## Example usage
 
 ## Files and description
