@@ -39,7 +39,7 @@ The repository contains a benchmark study comparing machine learning optimizers 
 │       
 ├── /plots
 │        └──── /map used to store generated plots
-<pre></pre>
+</pre>
 ## Example usage
 
 ## Files and description
