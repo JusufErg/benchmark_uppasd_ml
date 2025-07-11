@@ -10,7 +10,7 @@ The repository contains a benchmark study comparing machine learning optimizers 
 
 ### Recommended directory:
 
-/benchmark_project
+<pre>/benchmark_project
 ├── /data
 │        └── /map to hold your [data files]
 ├── /opt_pytorch
@@ -39,7 +39,7 @@ The repository contains a benchmark study comparing machine learning optimizers 
 │       
 ├── /plots
 │        └──── /map used to store generated plots
-
+<pre></pre>
 ## Example usage
 
 ## Files and description
